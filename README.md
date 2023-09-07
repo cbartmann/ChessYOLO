@@ -1,5 +1,5 @@
  # ChessYOLO
- # Deep Learning for Visual Computing: Exercise 3 Submission
+ ## Deep Learning for Visual Computing: Exercise 3 Submission
 
 This repository contains the submission for Exercise 3 of the Deep Learning for Visual Computing course. It includes details on the workflow and results, which can be found in the report.
 
@@ -16,5 +16,3 @@ This repository contains the submission for Exercise 3 of the Deep Learning for 
 - `Evaluation.ipynb`: This notebook establishes a pipeline for the evaluation of the predictions, which are stored for the training, test, and validation sets in the `Predictions` folder.\
 
 For more information, please refer to the report included in the repository.
-
-# ChessYOLO

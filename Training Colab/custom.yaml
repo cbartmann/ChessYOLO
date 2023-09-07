@@ -1,0 +1,27 @@
+
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /content/gdrive/My Drive/custom_data/  # dataset root dir
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0 : empty_white
+  1 : empty_black
+  2 : black_pawn
+  3 : black_rook
+  4 : black_knight
+  5 : black_bishop
+  6 : black_queen
+  7 : black_king
+  8 : white_pawn
+  9 : white_rook
+  10 : white_knight
+  11 : white_bishop
+  12 : white_queen
+  13 : white_king
+
+
